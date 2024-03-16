@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695304174 source:c:\dev\prozd\minmaxsum\main.c
+	<stdio.h>
+	<stdlib.h>
+
